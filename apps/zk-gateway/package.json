@@ -1,0 +1,22 @@
+{
+  "name": "zk-gateway",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "ts-node src/server.ts"
+  },
+  "dependencies": {
+    "@types/cors": "^2.8.19",
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "ethers": "^6.8.1",
+    "express": "^4.21.2",
+    "snarkjs": "^0.6.11"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.13",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

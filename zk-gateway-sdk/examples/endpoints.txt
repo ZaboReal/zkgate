@@ -1,0 +1,8 @@
+# Example API endpoints
+# Remove the # to use these endpoints
+
+https://jsonplaceholder.typicode.com/posts
+https://jsonplaceholder.typicode.com/users
+https://jsonplaceholder.typicode.com/comments
+https://api.github.com/users
+https://api.github.com/repos 

@@ -1,0 +1,29 @@
+{
+  "mappings": [
+    {
+      "hash": "1efa99af5bb19d14",
+      "originalUrl": "https://jsonplaceholder.typicode.com/posts/1",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-12T02:45:49.111Z"
+    },
+    {
+      "hash": "326b4f08a0fb935c",
+      "originalUrl": "https://jsonplaceholder.typicode.com/posts",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-18T21:28:20.032Z"
+    },
+    {
+      "hash": "a143f494ff82f908",
+      "originalUrl": "https://jsonplaceholder.typicode.com/users",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-18T21:28:20.033Z"
+    },
+    {
+      "hash": "ba583bd88201ace2",
+      "originalUrl": "https://jsonplaceholder.typicode.com/comments",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-18T21:28:20.033Z"
+    }
+  ],
+  "lastUpdated": "2025-07-18T21:28:20.033Z"
+}

@@ -1,0 +1,23 @@
+{
+  "mappings": [
+    {
+      "hash": "326b4f08a0fb935c",
+      "originalUrl": "https://jsonplaceholder.typicode.com/posts",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-18T21:28:20.042Z"
+    },
+    {
+      "hash": "a143f494ff82f908",
+      "originalUrl": "https://jsonplaceholder.typicode.com/users",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-18T21:28:20.043Z"
+    },
+    {
+      "hash": "ba583bd88201ace2",
+      "originalUrl": "https://jsonplaceholder.typicode.com/comments",
+      "organizationId": "test-org-123",
+      "createdAt": "2025-07-18T21:28:20.043Z"
+    }
+  ],
+  "lastUpdated": "2025-07-18T21:28:20.043Z"
+}

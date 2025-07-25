@@ -1,0 +1,11 @@
+{
+  "mappings": [
+    {
+      "hash": "1efa99af5bb19d14",
+      "originalUrl": "https://jsonplaceholder.typicode.com/posts/1",
+      "createdAt": "2025-07-12T02:48:10.667Z",
+      "organizationId": "test-org-123"
+    }
+  ],
+  "lastUpdated": "2025-07-12T02:48:10.668Z"
+}

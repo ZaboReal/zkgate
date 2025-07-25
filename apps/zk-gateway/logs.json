@@ -1,0 +1,120 @@
+[
+  {
+    "timestamp": "2025-07-11T00:23:04.274Z",
+    "nullifier": "20784155073307594930423461929126932669097556518035326218437925922978310451256",
+    "apiTarget": "https://jsonplaceholder.typicode.com/posts",
+    "payload": {
+      "title": "Test from ZK Gateway",
+      "body": "This post came through a zero-knowledge proof gateway!",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T01:16:45.211Z",
+    "nullifier": "10919110226026198630903707754352381817664479613578393453141446245460215282723",
+    "apiTarget": "https://jsonplaceholder.typicode.com/posts",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T01:23:11.729Z",
+    "nullifier": "5396103174836308645381632636896984534675135131464004358193167098466086830944",
+    "apiTarget": "https://jsonplaceholder.typicode.com/posts",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T01:31:25.917Z",
+    "nullifier": "8575654717184843685741435330602338158205348598682113255766433855107915609600",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T16:08:28.403Z",
+    "nullifier": "14648736297705199380758851744648067691959218401145272042397647625068800655085",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T16:17:38.150Z",
+    "nullifier": "17022399598465481889495843289974438898916958433519552124845612614470952854592",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T16:18:28.478Z",
+    "nullifier": "17141754088764384396858202403891820017274699175771804737927746014113546675983",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T16:19:04.864Z",
+    "nullifier": "6306344296407806846473015151032406428429736227210549434451800837003363414481",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  {
+    "timestamp": "2025-07-11T16:25:00.295Z",
+    "nullifier": "1295178315590034040571645711222921720754255952812952656471315911280315371256",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    },
+    "method": "GET"
+  },
+  {
+    "timestamp": "2025-07-11T21:30:04.547Z",
+    "nullifier": "4839430778100573722741502085274828679259467900103742230443003956239195716976",
+    "apiTarget": "http://localhost:3001/v1/access",
+    "payload": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    },
+    "method": "GET"
+  },
+  {
+    "timestamp": "2025-07-11T22:24:59.016Z",
+    "nullifier": "242e845c90df6d86e9cbd3f23987675ed92dff2fb0d67f770139d4f527f7e8b5",
+    "apiTarget": "https://jsonplaceholder.typicode.com/posts",
+    "payload": {
+      "method": "GET",
+      "data": null,
+      "params": {
+        "userId": 1
+      },
+      "headers": {}
+    },
+    "method": "GET",
+    "organizationId": "my-company-123",
+    "endpointId": "ep_gexe0hr86"
+  }
+]
